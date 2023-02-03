@@ -8,7 +8,7 @@
 
 ## Presentation file
 
-Download presentation file
+[Download presentation file](https://github.com/teerasej/azure-function-training/blob/main/presentations/Azure%20Functions%20by%20nextflow.pdf)
 
 ## Exercise
 
